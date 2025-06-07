@@ -3,6 +3,9 @@
   <li>
     🚀Currently developing my Portfolio with great enthusiasm.
   </li>
+  <li>
+    ⚡Fun fact: Apart from coding, I'm a passionate Artist!
+  </li>
 </ul>
 
 ## 💻 My Tech Stack
